@@ -17,22 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Xin Yan, a second-year Ph.D. student working with Dr. Deepak Mishra at The University of Georgia.
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My name is Xin Yan, I am currently enrolled (2nd year) in the Ph.D. program majoring in Geography at the University of Georgia (UGA). Before pursuing a Ph.D., I received two master’s degrees in Electronics and Communications Engineering and Earth Science in 2018 and 2021, respectively. My academic goal has always been to understand wetlands more, including developing multi-scale, multi-spectral, time-series wetland remote sensing monitoring techniques for ecological environment analysis, integrating GeoAI and process-based models to explore their internal change mechanisms and biophysical and chemical processes, blue carbon monitoring and its policy. 
+My undergraduate thesis realized the analysis of spatiotemporal changes and driving forces of wetland reserves from 1990 to 2017 based on Landsat time series data. My first master's thesis was "Large Scale Wetland Classification Based on Cloud Platform and Open-source Remote Sensing Data." Besides the global wetland mapping, I also worked on the automatic generation, reliability evaluation, and migration of global wetland samples. I developed an ensembled building height estimation model based on Sentinel data with 10m resolution and achieved building height estimation for all buildings in the United States during my second master's degree. 
+   I joined the Remote Sensing and Spectroscopy Lab under the advisement of Dr. Deepak Mishra, and I am involved in collaborative wetland monitoring projects dealing with Total Suspended Sediment Modelling and Above-/Below-ground Biomass Modelling. I also dedicate myself to the activities at the Department of Geography and ASPRS. I have also worked for the journal "Big Earth Data" as a secretary and have served as a reviewer for the ISPRS Journal of Photogrammetry and Remote Sensing. 
+During my leisure time, I like being on the road, even just driving around makes me feel fulfilled. I also like trying new things and communicating with others. Psychology books have been my favorite in recent years. All of these have made me understand the known and unknown aspects of myself better, which is very exciting.
 
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 A new paper is accepted by JSTARS! 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Global Wetland Sample](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xin Yan**, Zhenguo Niu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
