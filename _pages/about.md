@@ -47,12 +47,18 @@ My name is Xin Yan, I am currently enrolled (2nd year) in the Ph.D. program majo
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2013.09 - present*, Ph.D. student in Geography, University of Georgia (UGA), Department of Geography 
+- *2021.09 - 2023.08*, Master of Science in Earth Science, Iowa State University (ISU), Department of the Earth, Atmosphere, and Climate
+- *2018.09 - 2021.06*, Master of Engineering in Electronic and Communication Engineering, University of Chinese Academy of Sciences (UCAS), Aerospace Information Research Institute, State Key Laboratory of Remote Sensing Science
+- *2014.09 - 2018.06*, Bachelor of Engineering in Surveying and Mapping Engineering, Shandong Agricultural University (SDAU), School of Information Science and Engineering
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Presentations
+- *2024.11*, The 18th Graduate Climate Conference, Seattle, USA. 
+- *2024.04*, American Association of Geographers (AAG) Annual Meeting 2024, Hawaii, USA.
+- *2024.02*, Integrative Conservation Conference 2024, Athens, Georgia, USA
+- *2023.12*, American Geophysical Union (AGU) 2023, San Francisco, USA
+- *2020.10*, 2020 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Virtual Symposium
+- *2019.10*, 2019 Annual Meeting of National Wetland Ecological Protection, Restoration and Management, Yancheng, China
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Part-time jobs
+- *2019.09 - 2020.10*, "Big Earth Data" Journal, Beijing, China.
